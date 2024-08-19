@@ -19,7 +19,6 @@
 
 <img src = "lhlh/Screenshot 2024-08-16 230031.png">
 
-
 # 👽Where to find me👽
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1022733432704479244) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huyduc137) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@aki13_7?_t=8osenHxpUxR&_r=1) 
 
